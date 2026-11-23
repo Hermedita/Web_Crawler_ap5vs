@@ -1,0 +1,30 @@
+Starting a Gradle Daemon, 1 incompatible Daemon could not be reused, use --status for details
+> Task :app:compileJava
+> Task :app:processResources NO-SOURCE
+> Task :app:classes
+
+> Task :app:run
+a;11171
+v;9093
+na;5494
+se;4580
+o;3520
+je;3356
+s;3296
+editovat;2486
+z;2441
+nebo;2241
+online;2220
+ve;2042
+do;1970
+k;1900
+pro;1717
+i;1612
+dostupné;1515
+vysoké;1420
+zdroj;1339
+jako;1290
+
+BUILD SUCCESSFUL in 30s
+2 actionable tasks: 2 executed
+Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.2.1/userguide/configuration_cache_enabling.html

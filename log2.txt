@@ -1,0 +1,322 @@
+Analyzing [0] https://cs.wikipedia.org/wiki/In%C5%BEen%C3%BDr_architekt
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/wiki/In%C5%BEen%C3%BDr_architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana
+Analyzing [1] https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Obsah
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:Pot%C5%99ebuji_pomoc
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:Nejlep%C5%A1%C3%AD_%C4%8Dl%C3%A1nky
+Analyzing [1] https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:N%C3%A1hodn%C3%A1_str%C3%A1nka
+Analyzing [1] https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Posledn%C3%AD_zm%C4%9Bny
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:Port%C3%A1l_Wikipedie
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:Pod_l%C3%ADpou
+Analyzing [1] https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Speci%C3%A1ln%C3%AD_str%C3%A1nky
+Analyzing [1] https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Hled%C3%A1n%C3%AD
+Analyzing [1] https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=cs.wikipedia.org&uselang=cs
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Vytvo%C5%99it_%C3%BA%C4%8Det&returnto=In%C5%BEen%C3%BDr+architekt
+Nalezeno 688 slov na teto strance: https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Obsah
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:P%C5%99ihl%C3%A1sit&returnto=In%C5%BEen%C3%BDr+architekt
+Nalezeno 1307 slov na teto strance: https://cs.wikipedia.org/wiki/Wikipedie:Port%C3%A1l_Wikipedie
+Analyzing [1] https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1_%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9
+Nalezeno 1424 slov na teto strance: https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana
+Analyzing [1] https://de.wikipedia.org/wiki/Master_of_Architecture
+Nalezeno 2125 slov na teto strance: https://cs.wikipedia.org/wiki/Wikipedie:Nejlep%C5%A1%C3%AD_%C4%8Dl%C3%A1nky
+Analyzing [1] https://en.wikipedia.org/wiki/Master_of_Architecture
+Nalezeno 843 slov na teto strance: https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:N%C3%A1hodn%C3%A1_str%C3%A1nka
+Analyzing [1] https://id.wikipedia.org/wiki/Magister_Arsitektur
+Nalezeno 13048 slov na teto strance: https://cs.wikipedia.org/wiki/Wikipedie:Pod_l%C3%ADpou
+Analyzing [1] https://nl.wikipedia.org/wiki/Master_of_Architecture
+Nalezeno 13704 slov na teto strance: https://cs.wikipedia.org/wiki/Wikipedie:Pot%C5%99ebuji_pomoc
+Analyzing [1] https://sk.wikipedia.org/wiki/In%C5%BEinier_architekt
+Nalezeno 640 slov na teto strance: https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Speci%C3%A1ln%C3%AD_str%C3%A1nky
+Analyzing [1] https://www.wikidata.org/wiki/Special:EntityPage/Q611694
+Nalezeno 115 slov na teto strance: https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Hled%C3%A1n%C3%AD
+Analyzing [1] https://cs.wikipedia.org/wiki/Diskuse:In%C5%BEen%C3%BDr_architekt
+Nalezeno 403 slov na teto strance: https://de.wikipedia.org/wiki/Master_of_Architecture
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit
+Nalezeno 440 slov na teto strance: https://www.wikidata.org/wiki/Special:EntityPage/Q611694
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit
+Nalezeno 387 slov na teto strance: https://nl.wikipedia.org/wiki/Master_of_Architecture
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=history
+Nalezeno 2025 slov na teto strance: https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Posledn%C3%AD_zm%C4%9Bny
+Analyzing [1] https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Co_odkazuje_na/In%C5%BEen%C3%BDr_architekt
+Nalezeno 394 slov na teto strance: https://sk.wikipedia.org/wiki/In%C5%BEinier_architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Souvisej%C3%ADc%C3%AD_zm%C4%9Bny/In%C5%BEen%C3%BDr_architekt
+Nalezeno 327 slov na teto strance: https://id.wikipedia.org/wiki/Magister_Arsitektur
+Analyzing [1] https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=cs
+Nalezeno 3125 slov na teto strance: https://en.wikipedia.org/wiki/Master_of_Architecture
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&oldid=26270885
+Nalezeno 1108 slov na teto strance: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=cs.wikipedia.org&uselang=cs
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=info
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Citovat&page=In%C5%BEen%C3%BDr_architekt&id=26270885&wpFormIdentifier=titleform
+Nalezeno 566 slov na teto strance: https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Co_odkazuje_na/In%C5%BEen%C3%BDr_architekt
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Skracova%C4%8DURL&url=https%3A%2F%2Fcs.wikipedia.org%2Fwiki%2FIn%25C5%25BEen%25C3%25BDr_architekt
+Nalezeno 166 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Vytvo%C5%99it_%C3%BA%C4%8Det&returnto=In%C5%BEen%C3%BDr+architekt
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&useparsoid=0
+Nalezeno 1320 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&oldid=26270885
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Kniha&bookcmd=book_creator&referer=In%C5%BEen%C3%BDr+architekt
+Nalezeno 117 slov na teto strance: https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=cs
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:DownloadAsPdf&page=In%C5%BEen%C3%BDr_architekt&action=show-download-screen
+Nalezeno 2847 slov na teto strance: https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1_%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9
+Analyzing [1] https://cs.wikipedia.org/wiki/Latina
+Nalezeno 503 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=info
+Analyzing [1] https://cs.wikipedia.org/wiki/Akademický_titul
+Error https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Souvisej%C3%ADc%C3%AD_zm%C4%9Bny/In%C5%BEen%C3%BDr_architekt : HTTP error fetching URL. Status=404, URL=[https://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Souvisej%C3%ADc%C3%AD_zm%C4%9Bny/In%C5%BEen%C3%BDr_architekt]
+Analyzing [1] https://cs.wikipedia.org/wiki/Vysoká_škola
+Nalezeno 139 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:P%C5%99ihl%C3%A1sit&returnto=In%C5%BEen%C3%BDr+architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Oblast_vzdìlávání
+Nalezeno 261 slov na teto strance: https://cs.wikipedia.org/wiki/Diskuse:In%C5%BEen%C3%BDr_architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Architektura
+Nalezeno 150 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Skracova%C4%8DURL&url=https%3A%2F%2Fcs.wikipedia.org%2Fwiki%2FIn%25C5%25BEen%25C3%25BDr_architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Èesko
+Nalezeno 1101 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=history
+Analyzing [1] https://cs.wikipedia.org/wiki/Fakulta
+Nalezeno 502 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Citovat&page=In%C5%BEen%C3%BDr_architekt&id=26270885&wpFormIdentifier=titleform
+Analyzing [1] https://cs.wikipedia.org/wiki/Technika
+Nalezeno 2649 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit
+Analyzing [1] https://cs.wikipedia.org/wiki/Univerzita
+Nalezeno 170 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Kniha&bookcmd=book_creator&referer=In%C5%BEen%C3%BDr+architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Inženýr
+Nalezeno 1275 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&useparsoid=0
+Analyzing [1] https://cs.wikipedia.org/wiki/International_Standard_Classification_of_Education
+Nalezeno 121 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:DownloadAsPdf&page=In%C5%BEen%C3%BDr_architekt&action=show-download-screen
+Analyzing [1] https://cs.wikipedia.org/wiki/Inženýrství
+Nalezeno 1933 slov na teto strance: https://cs.wikipedia.org/wiki/Inženýr
+Analyzing [1] https://cs.wikipedia.org/wiki/Zákon
+Nalezeno 6819 slov na teto strance: https://cs.wikipedia.org/wiki/Akademický_titul
+Analyzing [1] https://cs.wikipedia.org/wiki/Studium
+Nalezeno 3079 slov na teto strance: https://cs.wikipedia.org/wiki/Univerzita
+Analyzing [1] https://cs.wikipedia.org/wiki/Studijní_program
+Nalezeno 5140 slov na teto strance: https://cs.wikipedia.org/wiki/Vysoká_škola
+Analyzing [1] https://cs.wikipedia.org/wiki/Ph.D.
+Nalezeno 1071 slov na teto strance: https://cs.wikipedia.org/wiki/Fakulta
+Analyzing [1] https://cs.wikipedia.org/wiki/Velký_doktorát
+Nalezeno 895 slov na teto strance: https://cs.wikipedia.org/wiki/International_Standard_Classification_of_Education
+Analyzing [1] https://cs.wikipedia.org/wiki/Student
+Nalezeno 3024 slov na teto strance: https://cs.wikipedia.org/wiki/Latina
+Analyzing [1] https://cs.wikipedia.org/wiki/Diplomová_práce
+Nalezeno 889 slov na teto strance: https://cs.wikipedia.org/wiki/Oblast_vzdìlávání
+Analyzing [1] https://cs.wikipedia.org/wiki/Státní_zkouška
+Nalezeno 31055 slov na teto strance: https://cs.wikipedia.org/wiki/Èesko
+Analyzing [1] https://cs.wikipedia.org/wiki/Profese
+Nalezeno 7088 slov na teto strance: https://cs.wikipedia.org/wiki/Ph.D.
+Analyzing [1] https://cs.wikipedia.org/wiki/Slovensko
+Nalezeno 6826 slov na teto strance: https://cs.wikipedia.org/wiki/Velký_doktorát
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=1
+Nalezeno 914 slov na teto strance: https://cs.wikipedia.org/wiki/Student
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=1
+Nalezeno 1390 slov na teto strance: https://cs.wikipedia.org/wiki/Státní_zkouška
+Analyzing [1] https://cs.wikipedia.org/wiki/Akad._arch.
+Nalezeno 1903 slov na teto strance: https://cs.wikipedia.org/wiki/Inženýrství
+Analyzing [1] https://cs.wikipedia.org/wiki/Spojené_státy_americké
+Nalezeno 882 slov na teto strance: https://cs.wikipedia.org/wiki/Technika
+Nalezeno 4392 slov na teto strance: https://cs.wikipedia.org/wiki/Architektura
+Analyzing [1] https://cs.wikipedia.org/wiki/Anglie
+Analyzing [1] https://cs.wikipedia.org/wiki/Kanada
+Nalezeno 414 slov na teto strance: https://cs.wikipedia.org/wiki/Studium
+Analyzing [1] https://cs.wikipedia.org/wiki/Austrálie
+Nalezeno 1109 slov na teto strance: https://cs.wikipedia.org/wiki/Studijní_program
+Analyzing [1] https://cs.wikipedia.org/wiki/Nový_Zéland
+Nalezeno 13997 slov na teto strance: https://cs.wikipedia.org/wiki/Slovensko
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=2
+Nalezeno 13756 slov na teto strance: https://cs.wikipedia.org/wiki/Kanada
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=2
+Nalezeno 20257 slov na teto strance: https://cs.wikipedia.org/wiki/Spojené_státy_americké
+Analyzing [1] https://cs.wikipedia.org/wiki/Èeskoslovensko
+Nalezeno 15484 slov na teto strance: https://cs.wikipedia.org/wiki/Austrálie
+Analyzing [1] https://cs.wikipedia.org/wiki/Èeské_vysoké_uèení_technické_v_Praze
+Nalezeno 11849 slov na teto strance: https://cs.wikipedia.org/wiki/Nový_Zéland
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=3
+Nalezeno 7871 slov na teto strance: https://cs.wikipedia.org/wiki/Èeskoslovensko
+Nalezeno 3784 slov na teto strance: https://cs.wikipedia.org/wiki/Anglie
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=3
+Analyzing [1] https://cs.wikipedia.org/wiki/Únor_1948
+Nalezeno 1588 slov na teto strance: https://cs.wikipedia.org/wiki/Diplomová_práce
+Analyzing [1] https://cs.wikipedia.org/wiki/Zdenìk_Nejedlý
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=1
+Analyzing [1] https://cs.wikipedia.org/wiki/Promovaný_právník
+Nalezeno 515 slov na teto strance: https://cs.wikipedia.org/wiki/Akad._arch.
+Analyzing [1] https://cs.wikipedia.org/wiki/Státní_závìreèná_zkouška
+Nalezeno 942 slov na teto strance: https://cs.wikipedia.org/wiki/Zákon
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=4
+Nalezeno 7656 slov na teto strance: https://cs.wikipedia.org/wiki/Zdenìk_Nejedlý
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=4
+Nalezeno 9127 slov na teto strance: https://cs.wikipedia.org/wiki/Èeské_vysoké_uèení_technické_v_Praze
+Analyzing [1] https://cs.wikipedia.org/wiki/Sametová_revoluce
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=2
+Analyzing [1] https://cs.wikipedia.org/wiki/Boloòský_proces
+Nalezeno 436 slov na teto strance: https://cs.wikipedia.org/wiki/Promovaný_právník
+Analyzing [1] https://cs.wikipedia.org/wiki/Evropa
+Nalezeno 903 slov na teto strance: https://cs.wikipedia.org/wiki/Boloòský_proces
+Analyzing [1] https://cs.wikipedia.org/wiki/Bakaláøský_studijní_program
+Nalezeno 9794 slov na teto strance: https://cs.wikipedia.org/wiki/Únor_1948
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_(titul_1990–1998)
+Nalezeno 1368 slov na teto strance: https://cs.wikipedia.org/wiki/Profese
+Analyzing [1] https://cs.wikipedia.org/wiki/Kandidát_vìd
+Nalezeno 1504 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=3
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=5
+Nalezeno 7294 slov na teto strance: https://cs.wikipedia.org/wiki/Evropa
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=5
+Nalezeno 1990 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=1
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=6
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=3
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=6
+Nalezeno 1355 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=2
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Pøeklad/Rady
+Nalezeno 10980 slov na teto strance: https://cs.wikipedia.org/wiki/Sametová_revoluce
+Analyzing [1] https://de.wikipedia.org/wiki/Master?oldid=82086497
+Nalezeno 512 slov na teto strance: https://cs.wikipedia.org/wiki/Doktor_(titul_1990–1998)
+Analyzing [1] https://web.archive.org/web/20140515011621/http://www.zakonyprolidi.cz/cs/1998-111
+Nalezeno 1395 slov na teto strance: https://cs.wikipedia.org/wiki/Státní_závìreèná_zkouška
+Analyzing [1] http://www.zakonyprolidi.cz/cs/1998-111
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=4
+Analyzing [1] https://cs.wikipedia.org/wiki/Internet_Archive
+Nalezeno 931 slov na teto strance: https://cs.wikipedia.org/wiki/Wikipedie:WikiProjekt_Pøeklad/Rady
+Analyzing [1] http://prirucka.ujc.cas.cz/?slovo=in%C5%BEen%C3%BDr
+Nalezeno 847 slov na teto strance: https://cs.wikipedia.org/wiki/Internet_Archive
+Analyzing [1] http://aplikace.mvcr.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=3146
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=6
+Analyzing [1] http://www.pravidla.cz/tituly/
+Nalezeno 1113 slov na teto strance: https://cs.wikipedia.org/wiki/Bakaláøský_studijní_program
+Analyzing [1] https://web.archive.org/web/20110928032338/http://web.utb.cz/cs/docs/tituly.pdf
+Nalezeno 8394 slov na teto strance: http://prirucka.ujc.cas.cz/?slovo=in%C5%BEen%C3%BDr
+Analyzing [1] http://www.ilist.cz/clanky/kde-se-vzal-titul-inzenyr
+Nalezeno 1482 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=4
+Analyzing [1] http://aplikace.mvcr.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=1079
+Nalezeno 1020 slov na teto strance: https://cs.wikipedia.org/wiki/Kandidát_vìd
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=7
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=5
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=7
+Nalezeno 525 slov na teto strance: http://www.pravidla.cz/tituly/
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=8
+Nalezeno 1311 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=5
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=8
+Nalezeno 52918 slov na teto strance: http://www.zakonyprolidi.cz/cs/1998-111
+Analyzing [1] https://cs.wikisource.org/wiki/Ottùv%20slovník%20nauèný/inženýr
+Error http://aplikace.mvcr.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=3146 : HTTP error fetching URL. Status=404, URL=[https://mv.gov.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=3146]
+Analyzing [1] https://cs.wikipedia.org/wiki/Ottùv_slovník_nauèný
+Error http://aplikace.mvcr.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=1079 : HTTP error fetching URL. Status=404, URL=[https://mv.gov.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=1079]
+Analyzing [1] https://cs.wiktionary.org/wiki/Ing.%20arch.
+Nalezeno 1289 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=6
+Analyzing [1] https://cs.wikipedia.org/wiki/Bakaláø
+Nalezeno 2176 slov na teto strance: https://cs.wikipedia.org/wiki/Ottùv_slovník_nauèný
+Analyzing [1] https://cs.wikipedia.org/wiki/Bakaláø_umìní
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=7
+Analyzing [1] https://cs.wikipedia.org/wiki/Inženýr_architekt
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&veaction=edit&section=8
+Analyzing [1] https://cs.wikipedia.org/wiki/ING-PAED_IGIP
+Nalezeno 1279 slov na teto strance: https://cs.wikipedia.org/wiki/Inženýr_architekt
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_práv
+Nalezeno 1299 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=8
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_zubního_lékaøství
+Nalezeno 2328 slov na teto strance: https://cs.wikipedia.org/wiki/Doktor_práv
+Analyzing [1] https://cs.wikipedia.org/wiki/Magistr_umìní
+Nalezeno 226 slov na teto strance: https://cs.wiktionary.org/wiki/Ing.%20arch.
+Analyzing [1] https://cs.wikipedia.org/wiki/Magistr
+Nalezeno 655 slov na teto strance: http://www.ilist.cz/clanky/kde-se-vzal-titul-inzenyr
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_medicíny
+Nalezeno 1365 slov na teto strance: https://cs.wikipedia.org/wiki/Bakaláø
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_veterinární_medicíny
+Nalezeno 1284 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&action=edit&section=7
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_pedagogiky
+Error https://cs.wikisource.org/wiki/Ottùv%20slovník%20nauèný/inženýr : HTTP error fetching URL. Status=404, URL=[https://cs.wikisource.org/wiki/Ott%C5%AFv_slovn%C3%ADk_nau%C4%8Dn%C3%BD/in%C5%BEen%C3%BDr]
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_farmacie
+Nalezeno 1216 slov na teto strance: https://cs.wikipedia.org/wiki/Magistr_umìní
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_filozofie
+Nalezeno 797 slov na teto strance: https://cs.wikipedia.org/wiki/Doktor_pedagogiky
+Analyzing [1] https://cs.wikipedia.org/wiki/Magistr_farmacie
+Error https://cs.wikipedia.org/wiki/Doktor_medicíny : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_medic%C3%ADny]
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_obchodních_vìd
+Nalezeno 2027 slov na teto strance: https://cs.wikipedia.org/wiki/Doktor_zubního_lékaøství
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_pøírodních_vìd
+Nalezeno 490 slov na teto strance: https://cs.wikipedia.org/wiki/ING-PAED_IGIP
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_sociálnì-politických_vìd
+Preskocen neHTML kontent (application/pdf): https://web.archive.org/web/20110928032338/http://web.utb.cz/cs/docs/tituly.pdf
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_technických_vìd
+Error https://cs.wikipedia.org/wiki/Doktor_farmacie : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_farmacie]
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_teologie
+Nalezeno 1290 slov na teto strance: https://cs.wikipedia.org/wiki/Bakaláø_umìní
+Analyzing [1] https://cs.wikipedia.org/wiki/Licenciát_teologie
+Error https://cs.wikipedia.org/wiki/Doktor_filozofie : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_filozofie]
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_vìd
+Error https://cs.wikipedia.org/wiki/Doktor_veterinární_medicíny : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_veterin%C3%A1rn%C3%AD_medic%C3%ADny]
+Analyzing [1] https://cs.wikipedia.org/wiki/FEng.
+Error https://cs.wikipedia.org/wiki/Magistr_farmacie : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Magistr_farmacie]
+Analyzing [1] https://cs.wikipedia.org/wiki/Docent
+Error https://cs.wikipedia.org/wiki/Doktor_obchodních_vìd : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_obchodn%C3%ADch_v%C4%9Bd]
+Analyzing [1] https://cs.wikipedia.org/wiki/Profesor
+Error https://cs.wikipedia.org/wiki/Doktor_sociálnì-politických_vìd : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_soci%C3%A1ln%C4%9B-politick%C3%BDch_v%C4%9Bd]
+Error https://cs.wikipedia.org/wiki/Doktor_pøírodních_vìd : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_p%C5%99%C3%ADrodn%C3%ADch_v%C4%9Bd]
+Analyzing [1] https://cs.wikipedia.org/wiki/Akademik
+Analyzing [1] https://cs.wikipedia.org/wiki/Èestný_doktorát
+Nalezeno 6714 slov na teto strance: https://de.wikipedia.org/wiki/Master?oldid=82086497
+Analyzing [1] https://cs.wikipedia.org/wiki/Diplomovaný_specialista
+Error https://cs.wikipedia.org/wiki/Doktor_technických_vìd : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_technick%C3%BDch_v%C4%9Bd]
+Analyzing [1] https://cs.wikipedia.org/wiki/Bachelor_of_Arts
+Error https://cs.wikipedia.org/wiki/Doktor_teologie : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_teologie]
+Analyzing [1] https://cs.wikipedia.org/wiki/Bachelor_of_Business_Administration
+Error https://cs.wikipedia.org/wiki/FEng. : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/FEng.]
+Error https://cs.wikipedia.org/wiki/Licenciát_teologie : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Licenci%C3%A1t_teologie]
+Analyzing [1] https://cs.wikipedia.org/wiki/Bachelor_of_Science
+Error https://cs.wikipedia.org/wiki/Doktor_vìd : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_v%C4%9Bd]
+Analyzing [1] https://cs.wikipedia.org/wiki/Master_of_Laws
+Analyzing [1] https://cs.wikipedia.org/wiki/Master_of_Arts
+Nalezeno 1418 slov na teto strance: https://cs.wikipedia.org/wiki/Magistr
+Analyzing [1] https://cs.wikipedia.org/wiki/Master_of_Business_Administration
+Error https://cs.wikipedia.org/wiki/Profesor : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Profesor]
+Analyzing [1] https://cs.wikipedia.org/wiki/Master_of_Public_Administration
+Error https://cs.wikipedia.org/wiki/Èestný_doktorát : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/%C4%8Cestn%C3%BD_doktor%C3%A1t]
+Error https://cs.wikipedia.org/wiki/Akademik : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Akademik]
+Analyzing [1] https://cs.wikipedia.org/wiki/Master_of_Science
+Analyzing [1] https://cs.wikipedia.org/wiki/Doktor_umìní
+Error https://cs.wikipedia.org/wiki/Bachelor_of_Arts : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Bachelor_of_Arts]
+Analyzing [1] https://cs.wikipedia.org/wiki/Doctor_of_Business_Administration
+Error https://cs.wikipedia.org/wiki/Diplomovaný_specialista : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Diplomovan%C3%BD_specialista]
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=Inženýr_architekt&oldid=26270885
+Nalezeno 4569 slov na teto strance: https://cs.wikipedia.org/wiki/Docent
+Analyzing [1] https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Kategorie
+Error https://cs.wikipedia.org/wiki/Master_of_Arts : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Master_of_Arts]
+Error https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Kategorie : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Kategorie]
+Error https://cs.wikipedia.org/wiki/Master_of_Laws : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Master_of_Laws]
+Analyzing [1] https://cs.wikipedia.org/wiki/Kategorie:Monitoring:%C4%8Cl%C3%A1nky_p%C5%99elo%C5%BEen%C3%A9_z_dewiki
+Analyzing [1] https://cs.wikipedia.org/wiki/Kategorie:Akademick%C3%A9_tituly
+Analyzing [1] https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid
+Error https://cs.wikipedia.org/wiki/Bachelor_of_Science : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Bachelor_of_Science]
+Analyzing [1] https://creativecommons.org/licenses/by-sa/4.0/deed.cs
+Error https://cs.wikipedia.org/wiki/Master_of_Business_Administration : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Master_of_Business_Administration]
+Analyzing [1] https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs
+Nalezeno 20637 slov na teto strance: https://web.archive.org/web/20140515011621/http://www.zakonyprolidi.cz/cs/1998-111
+Analyzing [1] https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+Error https://cs.wikipedia.org/wiki/Doctor_of_Business_Administration : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doctor_of_Business_Administration]
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie
+Nalezeno 1320 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=Inženýr_architekt&oldid=26270885
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:Vylou%C4%8Den%C3%AD_odpov%C4%9Bdnosti
+Error https://cs.wikipedia.org/wiki/Kategorie:Monitoring:%C4%8Cl%C3%A1nky_p%C5%99elo%C5%BEen%C3%A9_z_dewiki : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Kategorie:Monitoring:%C4%8Cl%C3%A1nky_p%C5%99elo%C5%BEen%C3%A9_z_dewiki]
+Analyzing [1] https://cs.wikipedia.org/wiki/Wikipedie:Kontakt
+Error https://cs.wikipedia.org/wiki/Kategorie:Akademick%C3%A9_tituly : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Kategorie:Akademick%C3%A9_tituly]
+Analyzing [1] https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+Nalezeno 771 slov na teto strance: https://creativecommons.org/licenses/by-sa/4.0/deed.cs
+Analyzing [1] https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+Error https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid : HTTP error fetching URL. Status=429, URL=[https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid]
+Analyzing [1] https://developer.wikimedia.org/
+Error https://cs.wikipedia.org/wiki/Wikipedie:Vylou%C4%8Den%C3%AD_odpov%C4%9Bdnosti : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Wikipedie:Vylou%C4%8Den%C3%AD_odpov%C4%9Bdnosti]
+Error https://cs.wikipedia.org/wiki/Master_of_Public_Administration : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Master_of_Public_Administration]
+Analyzing [1] https://stats.wikimedia.org/
+Analyzing [1] https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+Error https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy : HTTP error fetching URL. Status=429, URL=[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy]
+Error https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs : HTTP error fetching URL. Status=429, URL=[https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs]
+Analyzing [1] https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&mobileaction=toggle_view_mobile
+Analyzing [1] https://www.wikimedia.org/
+Error https://cs.wikipedia.org/wiki/Master_of_Science : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Master_of_Science]
+Analyzing [1] https://www.mediawiki.org/
+Error https://cs.wikipedia.org/wiki/Doktor_umìní : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Doktor_um%C4%9Bn%C3%AD]
+Nalezeno 1638 slov na teto strance: https://cs.wikipedia.org/wiki/Bachelor_of_Business_Administration
+Error https://cs.wikipedia.org/wiki/Wikipedie:Kontakt : HTTP error fetching URL. Status=429, URL=[https://cs.wikipedia.org/wiki/Wikipedie:Kontakt]
+Nalezeno 4269 slov na teto strance: https://cs.wikipedia.org/wiki/Wikipedie
+Error https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct : HTTP error fetching URL. Status=429, URL=[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct]
+Nalezeno 1307 slov na teto strance: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+Error https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement : HTTP error fetching URL. Status=429, URL=[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement]
+Nalezeno 0 slov na teto strance: https://stats.wikimedia.org/
+Nalezeno 1047 slov na teto strance: https://cs.wikipedia.org/w/index.php?title=In%C5%BEen%C3%BDr_architekt&mobileaction=toggle_view_mobile
+Nalezeno 300 slov na teto strance: https://developer.wikimedia.org/
+Nalezeno 179 slov na teto strance: https://www.wikimedia.org/
+Nalezeno 609 slov na teto strance: https://www.mediawiki.org/
