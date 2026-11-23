@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
@@ -27,11 +26,10 @@ public class Crawler {
 	private final int maxDepth;
 	private final int debugLevel;
 
-
 	private static final int timeout_ms = 20000;
 	private static final String USER_AGENT = "Mozilla/5.0";
 	private static final Pattern slovo = Pattern.compile("\\p{L}+");
-	private final Set<URI> visitedURIs = ConcurrentHashMap.newKeySet();
+	private final ConcurrentHashMap<URI, Boolean> visitedURIs = new ConcurrentHashMap<>();
 	private final ConcurrentHashMap<String, Integer> wordCounts = new ConcurrentHashMap<>();
 
 	private final ExecutorService executor;
@@ -51,7 +49,7 @@ public class Crawler {
 
 	public Map<String, Integer> crawl(URI start) throws InterruptedException {
 		try {
-			if (visitedURIs.add(start))
+			if (visitedURIs.putIfAbsent(start, Boolean.TRUE) == null)
 				odeslat(new URIinfo(start, 0));
 			else
 				hotovo.countDown();
@@ -70,8 +68,8 @@ public class Crawler {
 			executor.execute(() -> {
 				try {
 					process(info);
-				} catch (Throwable t) {
-					System.err.println("Neocekavany error " + info.uri + ": " + t);
+				} catch (Throwable throwabl) {
+					System.err.println("Neocekavany error " + info.uri + ": " + throwabl);
 				} finally {
 					taskFinished();
 				}
@@ -90,8 +88,7 @@ public class Crawler {
 		URI uri = info.uri;
 		int depth = info.depth;
 		if (debugLevel > 0)
-			System.err.println("Analyzuji [" + depth + "] " + uri);
-
+			System.err.println("Analyzuji [" + depth + "] " + uri + " (" + Thread.currentThread().getName() + ")");
 		Document doc;
 		try {
 			Connection.Response res = Jsoup.connect(uri.toString())
@@ -103,13 +100,14 @@ public class Crawler {
 
 			String kontent = res.contentType();
 			if (kontent != null) {
-				String lower = kontent.toLowerCase(Locale.ROOT);
+				String lower = kontent.toLowerCase(Locale.ROOT); //cs
 				if (!lower.startsWith("text/html") && !lower.startsWith("application/xhtml")) {
 					if (debugLevel > 0)
 						System.err.println("Preskocen neHTML kontent (" + kontent + "): " + uri);
 					return;
 				}
 			}
+			//bere kodovani z HTTP Content-Type ==> Byte Order Mark / Meta charset ==> UTF-8
 			doc = res.parse();
 		} catch (Exception e) {
 			System.err.println("Error " + uri + " : " + e.getMessage());
@@ -123,14 +121,14 @@ public class Crawler {
 		if (depth >= maxDepth)
 			return;
 
-		for (Element el : doc.select("a[href], frame[src], iframe[src]")) {
-			String abs = el.hasAttr("href") ? el.absUrl("href") : el.absUrl("src");
-			if (abs.isEmpty())
+		for (Element eleme : doc.select("a[href], frame[src], iframe[src]")) {
+			String absolut = eleme.hasAttr("href") ? eleme.absUrl("href") : eleme.absUrl("src");
+			if (absolut.isEmpty())
 				continue;
-			URI link = normalize(abs);
-			if (link != null && visitedURIs.add(link)) {
+			URI link = normalize(absolut);
+			if (link != null && visitedURIs.putIfAbsent(link, Boolean.TRUE) == null) {
 				if (debugLevel > 1)
-					System.err.println("Adding URI: " + link);
+					System.err.println("Pridani URI: " + link);
 				odeslat(new URIinfo(link, depth + 1));
 			}
 		}
@@ -147,26 +145,26 @@ public class Crawler {
 			local.merge(match.group().toLowerCase(Locale.ROOT), 1, Integer::sum);
 			celkem++;
 		}
-		local.forEach((w, c) -> wordCounts.merge(w, c, Integer::sum));
+		local.forEach((wor, cou) -> wordCounts.merge(wor, cou, Integer::sum));
 		return celkem;
 	}
 
 	static URI normalize(String url) { //normalizace uri
 		try {
-			URI u = new URI(url.trim());
-			String scheme = u.getScheme();
+			URI ur = new URI(url.trim());
+			String scheme = ur.getScheme();
 			if (scheme == null)
 				return null;
 			scheme = scheme.toLowerCase(Locale.ROOT);
 			if (!scheme.equals("http") && !scheme.equals("https"))
 				return null;
-			if (u.getRawAuthority() == null)
+			if (ur.getRawAuthority() == null)
 				return null;
-			String path = u.getRawPath();
+			String path = ur.getRawPath();
 			if (path == null || path.isEmpty())
 				path = "/";
-			String query = u.getRawQuery() != null ? "?" + u.getRawQuery() : "";
-			return new URI(scheme + "://" + u.getRawAuthority().toLowerCase(Locale.ROOT) + path + query);
+			String query = ur.getRawQuery() != null ? "?" + ur.getRawQuery() : "";
+			return new URI(scheme + "://" + ur.getRawAuthority().toLowerCase(Locale.ROOT) + path + query);
 		} catch (Exception e) {
 			return null;
 		}
